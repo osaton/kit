@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.167
+
+### Patch Changes
+
+- Add a generic argument to allow typing Body from hooks ([#2413](https://github.com/sveltejs/kit/pull/2413))
+
 ## 1.0.0-next.166
 
 ### Patch Changes
